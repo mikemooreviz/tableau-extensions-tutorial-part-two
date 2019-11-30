@@ -1,0 +1,11 @@
+{
+  "name": "tableau-extensions-tutorial-part-two",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^4.4.1",
+    "chart.js": "^2.9.3",
+    "jquery": "^3.4.1"
+  }
+}
